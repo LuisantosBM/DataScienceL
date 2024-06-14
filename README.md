@@ -1,4 +1,5 @@
 Temario a desarrollar:
+
 Parte I:
 Herramientas y librerias de Python para ciencia de datos
 
